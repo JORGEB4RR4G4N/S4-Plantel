@@ -1,0 +1,15 @@
+C:\S4\S4.Equipo.Comunes\obj\Debug\net7.0\S4.Plantilla.Comunes.GeneratedMSBuildEditorConfig.editorconfig
+C:\S4\S4.Equipo.Comunes\obj\Debug\net7.0\S4.Plantilla.Comunes.AssemblyInfoInputs.cache
+C:\S4\S4.Equipo.Comunes\obj\Debug\net7.0\S4.Plantilla.Comunes.AssemblyInfo.cs
+C:\S4\S4.Equipo.Comunes\obj\Debug\net7.0\S4.Plantilla.Comunes.csproj.CoreCompileInputs.cache
+C:\S4\S4.Plantilla.Comunes\bin\Debug\net7.0\S4.Plantilla.Comunes.deps.json
+C:\S4\S4.Plantilla.Comunes\bin\Debug\net7.0\S4.Plantilla.Comunes.dll
+C:\S4\S4.Plantilla.Comunes\bin\Debug\net7.0\S4.Plantilla.Comunes.pdb
+C:\S4\S4.Plantilla.Comunes\obj\Debug\net7.0\S4.Plantilla.Comunes.GeneratedMSBuildEditorConfig.editorconfig
+C:\S4\S4.Plantilla.Comunes\obj\Debug\net7.0\S4.Plantilla.Comunes.AssemblyInfoInputs.cache
+C:\S4\S4.Plantilla.Comunes\obj\Debug\net7.0\S4.Plantilla.Comunes.AssemblyInfo.cs
+C:\S4\S4.Plantilla.Comunes\obj\Debug\net7.0\S4.Plantilla.Comunes.csproj.CoreCompileInputs.cache
+C:\S4\S4.Plantilla.Comunes\obj\Debug\net7.0\S4.Plantilla.Comunes.dll
+C:\S4\S4.Plantilla.Comunes\obj\Debug\net7.0\refint\S4.Plantilla.Comunes.dll
+C:\S4\S4.Plantilla.Comunes\obj\Debug\net7.0\S4.Plantilla.Comunes.pdb
+C:\S4\S4.Plantilla.Comunes\obj\Debug\net7.0\ref\S4.Plantilla.Comunes.dll

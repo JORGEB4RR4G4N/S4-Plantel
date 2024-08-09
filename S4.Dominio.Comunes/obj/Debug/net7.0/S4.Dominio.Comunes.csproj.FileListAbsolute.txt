@@ -1,0 +1,11 @@
+C:\S4\S4.Dominio.Comunes\obj\Debug\net7.0\S4.Dominio.Comunes.GeneratedMSBuildEditorConfig.editorconfig
+C:\S4\S4.Dominio.Comunes\obj\Debug\net7.0\S4.Dominio.Comunes.AssemblyInfoInputs.cache
+C:\S4\S4.Dominio.Comunes\obj\Debug\net7.0\S4.Dominio.Comunes.AssemblyInfo.cs
+C:\S4\S4.Dominio.Comunes\obj\Debug\net7.0\S4.Dominio.Comunes.csproj.CoreCompileInputs.cache
+C:\S4\S4.Dominio.Comunes\bin\Debug\net7.0\S4.Dominio.Comunes.deps.json
+C:\S4\S4.Dominio.Comunes\bin\Debug\net7.0\S4.Dominio.Comunes.dll
+C:\S4\S4.Dominio.Comunes\bin\Debug\net7.0\S4.Dominio.Comunes.pdb
+C:\S4\S4.Dominio.Comunes\obj\Debug\net7.0\S4.Dominio.Comunes.dll
+C:\S4\S4.Dominio.Comunes\obj\Debug\net7.0\refint\S4.Dominio.Comunes.dll
+C:\S4\S4.Dominio.Comunes\obj\Debug\net7.0\S4.Dominio.Comunes.pdb
+C:\S4\S4.Dominio.Comunes\obj\Debug\net7.0\ref\S4.Dominio.Comunes.dll
