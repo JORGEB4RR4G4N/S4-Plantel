@@ -10,6 +10,7 @@ public class Jugador
     public int IdOrigen { get; set; }
     public int IdPosicion { get; set; }
     public int Numero { get; set; }
+    public int Numero2 { get; set; }
     public DateTime FechaNacimiento { get; set; }
 
 
