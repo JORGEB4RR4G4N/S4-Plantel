@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S4.Dominio.Comunes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de0ca0e70cb254f6491b5cb54d3105fec3ca56c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ffde99a36602f72905c195a152cb0d586a093d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("S4.Dominio.Comunes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S4.Dominio.Comunes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
