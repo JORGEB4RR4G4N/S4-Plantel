@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S4.Plantel.Front")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c91aeda6ee5842bc6dda3c6520042597d52a4a2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de0ca0e70cb254f6491b5cb54d3105fec3ca56c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("S4.Plantel.Front")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S4.Plantel.Front")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
