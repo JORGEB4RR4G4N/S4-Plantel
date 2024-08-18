@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = S4.Dominio.Comunes
-build_property.ProjectDir = C:\Users\jorge\source\repos\S4.Dominio.Comunes\
+build_property.ProjectDir = C:\S4TIVA\S4-Plantel\S4.Dominio.Comunes\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,3 +1,48 @@
 ﻿@inherits LayoutComponentBase
 
-@Body
+
+<Layout>
+    <LayoutHeader>
+        <Bar Breakpoint="Breakpoint.Desktop"
+             Background="Background.Light"
+             ThemeContrast="ThemeContrast.Light">
+            <BarBrand>
+                Dep. San Martin
+            </BarBrand>
+            <BarToggler />
+            <BarMenu>
+                <BarStart>
+                    <BarItem>
+                        <BarLink To="#home">Portada</BarLink>
+                    </BarItem>
+                    <BarItem>
+                        <BarLink To="#docs">Equipo</BarLink>
+                    </BarItem>
+                    <BarItem>
+                        <BarLink To="#docs">Estadisticas</BarLink>
+                    </BarItem>
+                </BarStart>
+                <BarEnd>
+                    <BarItem>
+                        <BarDropdown>
+                            <BarDropdownToggle>Configuración</BarDropdownToggle>
+                            <BarDropdownMenu>
+                                <BarDropdownItem>Jugadores</BarDropdownItem>
+                                <BarDropdownDivider />
+                                <BarDropdownItem>Equipo</BarDropdownItem>
+                            </BarDropdownMenu>
+                        </BarDropdown>
+                    </BarItem>
+
+                </BarEnd>
+            </BarMenu>
+        </Bar>
+    </LayoutHeader>
+    <LayoutContent>
+        @Body
+    </LayoutContent>
+    <LayoutFooter>
+        Footer
+    </LayoutFooter>
+</Layout>
+

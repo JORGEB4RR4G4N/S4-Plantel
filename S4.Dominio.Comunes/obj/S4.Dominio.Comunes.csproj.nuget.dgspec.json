@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jorge\\source\\repos\\S4.Dominio.Comunes\\S4.Dominio.Comunes.csproj": {}
+    "C:\\S4TIVA\\S4-Plantel\\S4.Dominio.Comunes\\S4.Dominio.Comunes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jorge\\source\\repos\\S4.Dominio.Comunes\\S4.Dominio.Comunes.csproj": {
+    "C:\\S4TIVA\\S4-Plantel\\S4.Dominio.Comunes\\S4.Dominio.Comunes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\S4.Dominio.Comunes\\S4.Dominio.Comunes.csproj",
+        "projectUniqueName": "C:\\S4TIVA\\S4-Plantel\\S4.Dominio.Comunes\\S4.Dominio.Comunes.csproj",
         "projectName": "S4.Dominio.Comunes",
-        "projectPath": "C:\\Users\\jorge\\source\\repos\\S4.Dominio.Comunes\\S4.Dominio.Comunes.csproj",
+        "projectPath": "C:\\S4TIVA\\S4-Plantel\\S4.Dominio.Comunes\\S4.Dominio.Comunes.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jorge\\source\\repos\\S4.Dominio.Comunes\\obj\\",
+        "outputPath": "C:\\S4TIVA\\S4-Plantel\\S4.Dominio.Comunes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

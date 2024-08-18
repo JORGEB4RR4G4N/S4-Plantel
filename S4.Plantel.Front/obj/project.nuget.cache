@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Q2JfOB4B3DI=",
+  "dgSpecHash": "t4tcsU0aYls=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jorge\\source\\repos\\S4.Plantel.Front\\S4.Plantel.Front.csproj",
+  "projectFilePath": "C:\\S4TIVA\\S4-Plantel\\S4.Plantel.Front\\S4.Plantel.Front.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\blazorise\\1.6.0\\blazorise.1.6.0.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\blazorise.bootstrap\\1.6.0\\blazorise.bootstrap.1.6.0.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\blazorise.icons.material\\1.6.0\\blazorise.icons.material.1.6.0.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\blazorise.licensing\\1.2.0\\blazorise.licensing.1.2.0.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\blazorise.material\\1.6.0\\blazorise.material.1.6.0.nupkg.sha512",
     "C:\\Users\\jorge\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.7\\microsoft.aspnetcore.authorization.8.0.7.nupkg.sha512",
     "C:\\Users\\jorge\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.7\\microsoft.aspnetcore.components.8.0.7.nupkg.sha512",
     "C:\\Users\\jorge\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.7\\microsoft.aspnetcore.components.analyzers.8.0.7.nupkg.sha512",

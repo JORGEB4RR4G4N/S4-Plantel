@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jorge\\source\\repos\\S4.Plantel.Front\\S4.Plantel.Front.csproj": {}
+    "C:\\S4TIVA\\S4-Plantel\\S4.Plantel.Front\\S4.Plantel.Front.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jorge\\source\\repos\\S4.Plantel.Front\\S4.Plantel.Front.csproj": {
+    "C:\\S4TIVA\\S4-Plantel\\S4.Plantel.Front\\S4.Plantel.Front.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\S4.Plantel.Front\\S4.Plantel.Front.csproj",
+        "projectUniqueName": "C:\\S4TIVA\\S4-Plantel\\S4.Plantel.Front\\S4.Plantel.Front.csproj",
         "projectName": "S4.Plantel.Front",
-        "projectPath": "C:\\Users\\jorge\\source\\repos\\S4.Plantel.Front\\S4.Plantel.Front.csproj",
+        "projectPath": "C:\\S4TIVA\\S4-Plantel\\S4.Plantel.Front\\S4.Plantel.Front.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jorge\\source\\repos\\S4.Plantel.Front\\obj\\",
+        "outputPath": "C:\\S4TIVA\\S4-Plantel\\S4.Plantel.Front\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Blazorise.Icons.Material": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Blazorise.Material": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[8.0.7, )"

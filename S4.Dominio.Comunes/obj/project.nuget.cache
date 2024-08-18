@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sSuibsJ0NDQ=",
+  "dgSpecHash": "wZstkIb5Pbw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jorge\\source\\repos\\S4.Dominio.Comunes\\S4.Dominio.Comunes.csproj",
+  "projectFilePath": "C:\\S4TIVA\\S4-Plantel\\S4.Dominio.Comunes\\S4.Dominio.Comunes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jorge\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\jorge\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
